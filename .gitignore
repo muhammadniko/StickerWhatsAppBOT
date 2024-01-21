@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
+#WWeb Cache Files
 .wwebjs_auth
 .wwebjs_cache
